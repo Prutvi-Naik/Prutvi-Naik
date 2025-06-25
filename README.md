@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **pruthnaik25@gmail.com** For Collaboration/Project or Anyt
 - 🌱 **I’m currently learning:** ReactJS && Python
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** pruthnaik25@gmail.com
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** Pruthvi
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me , I Love to do mistakes
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x_omya_x_29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pruthnaik25@gmail.com) 
