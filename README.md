@@ -1,23 +1,36 @@
 # 💫 Hi 👋, I'm Pruthvijit Naiknaware
-**  Bsc-CS TY Student|| Front-end Devlooper **
+**BSc CS Final Year Student || Front-end Developer || Debugging Enthusiast**
 
-Email Me 👉 ✉️ **pruthnaik25@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+📧 Reach me at: **pruthnaik25@gmail.com** for collaborations, projects, or just to chat about tech! 😊
 
-- 🔭 **I’m currently Studying in:** Bsc CS TY at COCSIT,Latur
-- 🌱 **I’m currently learning:** ReactJS && Python
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** pruthnaik25@gmail.com
-- 😄 **Pronouns:** Pruthvi
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me , I Love to do mistakes and solve it..
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x_omya_x_29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pruthnaik25@gmail.com) 
+- 🎓 **Currently Studying:** BSc Computer Science (Final Year) at COCSIT, Latur
+- 🌱 **Learning Journey:** Mastering ReactJS & Python
+- 💡 **Ask me about:** Web Development, Tech Support, or Debugging Tips
+- 📫 **Best way to contact me:** pruthnaik25@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I have a love-hate relationship with errors - they frustrate me but solving them gives me the ultimate high!
+
+## 🌐 Let's Connect
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x_omya_x_29) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pruthnaik25@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvijit-naiknaware-42ba94369)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prutvi-naik&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prutvi-naik&theme=nord&hide_border=false)<br/>
+# 💻 Tech Stack
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Others
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=prutvi-naik&theme=nord&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=prutvi-naik&theme=nord&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prutvi-naik&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -26,7 +39,7 @@ Email Me 👉 ✉️ **pruthnaik25@gmail.com** For Collaboration/Project or Anyt
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=prutvi-naik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
