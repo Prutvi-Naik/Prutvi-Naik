@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **pruthnaik25@gmail.com** For Collaboration/Project or Anyt
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** pruthnaik25@gmail.com
 - 😄 **Pronouns:** Pruthvi
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me , I Love to do mistakes
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me , I Love to do mistakes and solve it..
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x_omya_x_29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pruthnaik25@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvijit-naiknaware-42ba94369)
